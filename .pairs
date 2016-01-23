@@ -1,0 +1,8 @@
+pairs:
+ mg: Megan Gaebler; mgaebler
+email:
+ prefix: pair
+ domain: pivotallabs.com
+
+global: true
+
